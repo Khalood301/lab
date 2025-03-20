@@ -1,6 +1,9 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello from main branch!");
+<<<<<<< HEAD
+        System.out.println("Hello from both branches merged!");
+
+>>>>>>> feature-branch
 
     }
 }
